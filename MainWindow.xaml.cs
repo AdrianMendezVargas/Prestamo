@@ -21,5 +21,5 @@ namespace Prestamo {
         public MainWindow() {
             InitializeComponent();
         }
-    }
+    }    //Dañando el código
 }
